@@ -1,0 +1,48 @@
+C:\Users\Nhat Huy\Desktop\DemoDeTai\DemoDeTai\bin\Debug\DemoDeTai.exe.config
+C:\Users\Nhat Huy\Desktop\DemoDeTai\DemoDeTai\bin\Debug\DemoDeTai.exe
+C:\Users\Nhat Huy\Desktop\DemoDeTai\DemoDeTai\bin\Debug\DemoDeTai.pdb
+C:\Users\Nhat Huy\Desktop\DemoDeTai\DemoDeTai\obj\Debug\DemoDeTai.csprojAssemblyReference.cache
+C:\Users\Nhat Huy\Desktop\DemoDeTai\DemoDeTai\obj\Debug\DemoDeTai.frm_GiaoDien.resources
+C:\Users\Nhat Huy\Desktop\DemoDeTai\DemoDeTai\obj\Debug\DemoDeTai.frm_DangNhap.resources
+C:\Users\Nhat Huy\Desktop\DemoDeTai\DemoDeTai\obj\Debug\DemoDeTai.Properties.Resources.resources
+C:\Users\Nhat Huy\Desktop\DemoDeTai\DemoDeTai\obj\Debug\DemoDeTai.csproj.GenerateResource.cache
+C:\Users\Nhat Huy\Desktop\DemoDeTai\DemoDeTai\obj\Debug\DemoDeTai.csproj.CoreCompileInputs.cache
+C:\Users\Nhat Huy\Desktop\DemoDeTai\DemoDeTai\obj\Debug\DemoDeTai.exe
+C:\Users\Nhat Huy\Desktop\DemoDeTai\DemoDeTai\obj\Debug\DemoDeTai.pdb
+C:\Users\Nhat Huy\Desktop\DemoDeTai\DemoDeTai\obj\Debug\DemoDeTai.Formss.frm_doitra.resources
+C:\Users\Nhat Huy\Desktop\DemoDeTai\DemoDeTai\obj\Debug\DemoDeTai.Formss.frm_hoadon.resources
+C:\Users\Nhat Huy\Desktop\DemoDeTai\DemoDeTai\obj\Debug\DemoDeTai.Formss.frm_sanpham.resources
+C:\Users\Nhat Huy\Desktop\DemoDeTai\DemoDeTai\obj\Debug\DemoDeTai.Formss.frm_thongke.resources
+C:\Users\Nhat Huy\Desktop\DemoDeTai\DemoDeTai\obj\Debug\DemoDeTai.Formss.frm_trangchu.resources
+C:\Users\Sun\Desktop\DemoDeTai\DemoDeTai\DemoDeTai\bin\Debug\DemoDeTai.exe.config
+C:\Users\Sun\Desktop\DemoDeTai\DemoDeTai\DemoDeTai\bin\Debug\DemoDeTai.exe
+C:\Users\Sun\Desktop\DemoDeTai\DemoDeTai\DemoDeTai\bin\Debug\DemoDeTai.pdb
+C:\Users\Sun\Desktop\DemoDeTai\DemoDeTai\DemoDeTai\obj\Debug\DemoDeTai.csproj.AssemblyReference.cache
+C:\Users\Sun\Desktop\DemoDeTai\DemoDeTai\DemoDeTai\obj\Debug\DemoDeTai.frm_GiaoDien.resources
+C:\Users\Sun\Desktop\DemoDeTai\DemoDeTai\DemoDeTai\obj\Debug\DemoDeTai.Formss.frm_doitra.resources
+C:\Users\Sun\Desktop\DemoDeTai\DemoDeTai\DemoDeTai\obj\Debug\DemoDeTai.Formss.frm_hoadon.resources
+C:\Users\Sun\Desktop\DemoDeTai\DemoDeTai\DemoDeTai\obj\Debug\DemoDeTai.Formss.frm_sanpham.resources
+C:\Users\Sun\Desktop\DemoDeTai\DemoDeTai\DemoDeTai\obj\Debug\DemoDeTai.Formss.frm_thongke.resources
+C:\Users\Sun\Desktop\DemoDeTai\DemoDeTai\DemoDeTai\obj\Debug\DemoDeTai.Formss.frm_trangchu.resources
+C:\Users\Sun\Desktop\DemoDeTai\DemoDeTai\DemoDeTai\obj\Debug\DemoDeTai.frm_DangNhap.resources
+C:\Users\Sun\Desktop\DemoDeTai\DemoDeTai\DemoDeTai\obj\Debug\DemoDeTai.Properties.Resources.resources
+C:\Users\Sun\Desktop\DemoDeTai\DemoDeTai\DemoDeTai\obj\Debug\DemoDeTai.csproj.GenerateResource.cache
+C:\Users\Sun\Desktop\DemoDeTai\DemoDeTai\DemoDeTai\obj\Debug\DemoDeTai.csproj.CoreCompileInputs.cache
+C:\Users\Sun\Desktop\DemoDeTai\DemoDeTai\DemoDeTai\obj\Debug\DemoDeTai.exe
+C:\Users\Sun\Desktop\DemoDeTai\DemoDeTai\DemoDeTai\obj\Debug\DemoDeTai.pdb
+D:\IT-STUDY\LT-CSDL\DemoDeTai\DemoDeTai\DemoDeTai\DemoDeTai\bin\Debug\DemoDeTai.exe.config
+D:\IT-STUDY\LT-CSDL\DemoDeTai\DemoDeTai\DemoDeTai\DemoDeTai\bin\Debug\DemoDeTai.exe
+D:\IT-STUDY\LT-CSDL\DemoDeTai\DemoDeTai\DemoDeTai\DemoDeTai\bin\Debug\DemoDeTai.pdb
+D:\IT-STUDY\LT-CSDL\DemoDeTai\DemoDeTai\DemoDeTai\DemoDeTai\obj\Debug\DemoDeTai.csprojAssemblyReference.cache
+D:\IT-STUDY\LT-CSDL\DemoDeTai\DemoDeTai\DemoDeTai\DemoDeTai\obj\Debug\DemoDeTai.frm_GiaoDien.resources
+D:\IT-STUDY\LT-CSDL\DemoDeTai\DemoDeTai\DemoDeTai\DemoDeTai\obj\Debug\DemoDeTai.Formss.frm_doitra.resources
+D:\IT-STUDY\LT-CSDL\DemoDeTai\DemoDeTai\DemoDeTai\DemoDeTai\obj\Debug\DemoDeTai.Formss.frm_hoadon.resources
+D:\IT-STUDY\LT-CSDL\DemoDeTai\DemoDeTai\DemoDeTai\DemoDeTai\obj\Debug\DemoDeTai.Formss.frm_sanpham.resources
+D:\IT-STUDY\LT-CSDL\DemoDeTai\DemoDeTai\DemoDeTai\DemoDeTai\obj\Debug\DemoDeTai.Formss.frm_thongke.resources
+D:\IT-STUDY\LT-CSDL\DemoDeTai\DemoDeTai\DemoDeTai\DemoDeTai\obj\Debug\DemoDeTai.Formss.frm_trangchu.resources
+D:\IT-STUDY\LT-CSDL\DemoDeTai\DemoDeTai\DemoDeTai\DemoDeTai\obj\Debug\DemoDeTai.frm_DangNhap.resources
+D:\IT-STUDY\LT-CSDL\DemoDeTai\DemoDeTai\DemoDeTai\DemoDeTai\obj\Debug\DemoDeTai.Properties.Resources.resources
+D:\IT-STUDY\LT-CSDL\DemoDeTai\DemoDeTai\DemoDeTai\DemoDeTai\obj\Debug\DemoDeTai.csproj.GenerateResource.cache
+D:\IT-STUDY\LT-CSDL\DemoDeTai\DemoDeTai\DemoDeTai\DemoDeTai\obj\Debug\DemoDeTai.csproj.CoreCompileInputs.cache
+D:\IT-STUDY\LT-CSDL\DemoDeTai\DemoDeTai\DemoDeTai\DemoDeTai\obj\Debug\DemoDeTai.exe
+D:\IT-STUDY\LT-CSDL\DemoDeTai\DemoDeTai\DemoDeTai\DemoDeTai\obj\Debug\DemoDeTai.pdb
